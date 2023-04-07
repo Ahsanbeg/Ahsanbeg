@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 # 🏄‍♂️ Ahsan Ahmad Beg
 
-**`Data Analyst`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahsanbeg&label=Profile%20views&color=0e75b6&style=flat" alt="Ahsanbeg" /> </p>
 
