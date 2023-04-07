@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### 💁🏻‍♀️ About Me
 
+Hi there! I'm a data analyst with a passion for turning data into insights that drive business decisions. With multiple internship experience in data analysis and visualization, I have developed expertise in extracting, cleaning, and transforming data from various sources to create clear and actionable reports. I have experience with a range of statistical and data analysis tools and techniques, including regression analysis, hypothesis testing, and machine learning. I'm also proficient in using data visualization tools like Tableau, Power BI, and Seaborn to create compelling visualizations that make complex data easy to understand. I believe in the power of data to inform decisions, and I'm committed to delivering high-quality work that drives business value.
+
 
 
 ### 🧰 Languages and Tools:
