@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 -->
 # 🏄‍♂️ Ahsan Ahmad Beg
 
+Data Analyst & BI Developer
+----------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahsanbeg&label=Profile%20views&color=0e75b6&style=flat" alt="Ahsanbeg" /> </p>
 
 ### 💁🏻‍♀️ About Me
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [linktree](https://linktr.ee/AhsanAhmadBeg)
+* 🧠  I'm learning Data Science and Analytics & Machine Learning
+* 🤝  I'm open to collaborating on Open source projects , projects & freelancing
+
 
 Hi there! I'm a data analyst with a passion for turning data into insights that drive business decisions. With multiple internship experience in data analysis and visualization, I have developed expertise in extracting, cleaning, and transforming data from various sources to create clear and actionable reports. I have experience with a range of statistical and data analysis tools and techniques, including regression analysis, hypothesis testing, and machine learning. I'm also proficient in using data visualization tools like Tableau, Power BI, and Seaborn to create compelling visualizations that make complex data easy to understand. I believe in the power of data to inform decisions, and I'm committed to delivering high-quality work that drives business value.
 
